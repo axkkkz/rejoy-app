@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>ReJoy - แอปดูแลใจวันละนิด</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#2E1F5E;--muted:#5B5675;--primary:#6D4FC2;--bg:#FAF7FF;--card:#fff;--line:#E4DEF2;--sos:#B3261E}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Noto Sans Thai',sans-serif;line-height:1.6}
+main{max-width:960px;margin:0 auto;padding:32px 16px 48px}
+h1{font-size:40px;margin:0 0 4px}
+.lead{font-size:18px;color:var(--muted);margin:0 0 24px}
+.top{display:flex;flex-wrap:wrap;gap:24px;align-items:center;justify-content:space-between}
+.qr{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:16px;text-align:center}
+.qr img{width:180px;height:180px;display:block}
+.qr span{font-size:14px;color:var(--muted)}
+.btns{display:flex;flex-wrap:wrap;gap:12px;margin:8px 0 24px}
+a.btn{display:inline-flex;align-items:center;min-height:48px;padding:0 22px;border-radius:24px;background:var(--primary);color:#fff;text-decoration:none;font-weight:600}
+a.btn.alt{background:var(--card);color:var(--primary);border:1.5px solid var(--primary)}
+.shots{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:16px;margin:24px 0}
+.shots figure{margin:0}
+.shots img{width:100%;border-radius:20px;border:1px solid var(--line)}
+.shots figcaption{font-size:14px;color:var(--muted);text-align:center;margin-top:6px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:20px;margin:16px 0}
+.card h2{font-size:20px;margin:0 0 8px}
+.card ul{margin:0;padding-left:20px}
+.help{border-color:#F1B8B4;background:#FCECEE}
+.help strong{color:var(--sos)}
+small{color:var(--muted)}
+</style>
+</head>
+<body>
+<main>
+<div class="top">
+<div>
+<h1>ReJoy</h1>
+<p class="lead">แอปดูแลใจวันละนิด เช็กอินอารมณ์ ทำเควสเล็ก ๆ คุยกับ ReJoy และขอความช่วยเหลือได้ทุกหน้า</p>
+<div class="btns">
+<a class="btn" href="https://github.com/axkkkz/rejoy-app/releases/download/demo-2026-11-19/rejoy-arm64-v8a.apk">ดาวน์โหลดสำหรับ Android (ส่วนใหญ่)</a>
+<a class="btn alt" href="https://github.com/axkkkz/rejoy-app/releases/download/demo-2026-11-19/rejoy-armeabi-v7a.apk">เครื่องรุ่นเก่า (32-bit)</a>
+</div>
+<small>ไฟล์ APK สำหรับ Android 7 ขึ้นไป ติดตั้งแล้วเครื่องอาจถามให้อนุญาต "ติดตั้งแอปที่ไม่รู้จัก" เวอร์ชันทดลองเพื่อการศึกษา ยังไม่มีใน Play Store</small>
+</div>
+<div class="qr"><img src="assets/qr.png" alt="QR ไปหน้านี้"><span>สแกนเพื่อเปิดหน้านี้บนมือถือ</span></div>
+</div>
+
+<div class="shots">
+<figure><img src="assets/1-checkin.png" alt="หน้าวันนี้: เกาะลอยฟ้าพร้อมมาสคอตและปุ่มเลือกอารมณ์"><figcaption>เช็กอินอารมณ์ในไม่กี่วินาที</figcaption></figure>
+<figure><img src="assets/2-today.png" alt="หลังเช็กอิน: อากาศบนเกาะเปลี่ยนตามอารมณ์และมีเควสเล็ก ๆ ให้เลือก"><figcaption>เกาะเปลี่ยนตามใจ พร้อมเควสเล็ก ๆ</figcaption></figure>
+<figure><img src="assets/3-chat.png" alt="แชทกับ ReJoy ที่ตอบด้วย AI และแนะนำให้ฝึกหายใจ"><figcaption>คุยกับ ReJoy ด้วย AI ที่มีระบบความปลอดภัย</figcaption></figure>
+<figure><img src="assets/4-sos.png" alt="หน้า SOS: สายด่วน 1323, 1669, ฝึกสติ และโรงพยาบาลใกล้ตัว"><figcaption>SOS: สายด่วน ฝึกสติ โรงพยาบาลใกล้ตัว</figcaption></figure>
+<figure><img src="assets/5-privacy.png" alt="แท็บฉัน: ขนาดตัวอักษร ล็อกด้วย PIN และการยินยอมใช้ AI"><figcaption>ข้อมูลอยู่ในเครื่อง ล็อกด้วย PIN ได้</figcaption></figure>
+</div>
+
+<div class="card">
+<h2>ทำอะไรได้บ้าง</h2>
+<ul>
+<li>เช็กอินอารมณ์ 5 ระดับ เกาะลอยฟ้าเปลี่ยนสภาพอากาศตามความรู้สึก และโตขึ้นจากการกลับมาดูแลตัวเอง ไม่มีการลงโทษเมื่อหายไป</li>
+<li>เควสเล็ก ๆ ตามอารมณ์ เช่น ฝึกหายใจ ฝึกสติ 5-4-3-2-1 เขียนระบาย ยืดตัว</li>
+<li>แชทกับ ReJoy (AI ออนไลน์ เลือกเปิดเอง) ตรวจความเสี่ยงในเครื่องก่อนทุกข้อความ ถ้าพบสัญญาณอันตรายจะพาไปสายด่วน 1323 ทันที</li>
+<li>ปุ่ม SOS ทุกหน้า รายชื่อโรงพยาบาลใช้ได้แม้ไม่มีอินเทอร์เน็ต</li>
+<li>ข้อมูลเก็บในเครื่องแบบเข้ารหัส ไม่มีบัญชี ล็อกด้วย PIN หรือสแกนนิ้ว ลบข้อมูลทั้งหมดได้ทุกเมื่อ</li>
+</ul>
+</div>
+
+<div class="card help">
+<h2>ReJoy ไม่ใช่แพทย์</h2>
+<p style="margin:0">ถ้ารู้สึกไม่ปลอดภัยหรือต้องการความช่วยเหลือด่วน โทร <strong>1323</strong> สายด่วนสุขภาพจิต ฟรีตลอด 24 ชั่วโมง หรือ <strong>1669</strong> เมื่อเจ็บป่วยฉุกเฉิน</p>
+</div>
+
+<small>เวอร์ชันทดลอง (19 พ.ย. 2569) แชท AI ออนไลน์มีโควตาจำกัด ถ้าใช้ไม่ได้ แอปจะคุยแบบออฟไลน์แทน</small>
+</main>
+</body>
+</html>
