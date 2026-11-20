@@ -1,0 +1,184 @@
+﻿[
+    {
+        "name":  "Chalong Hospital",
+        "latitude":  7.824194,
+        "longitude":  98.3408379,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "Phuket Provincial Hospital",
+        "latitude":  7.8808649,
+        "longitude":  98.4048755,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "Thalang hospital",
+        "latitude":  8.0230867,
+        "longitude":  98.338625,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลเกาะพีพี",
+        "latitude":  7.7380885,
+        "longitude":  98.7677255,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลเกาะลันตา",
+        "latitude":  7.5198366,
+        "longitude":  99.0968567,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลเขาพนม",
+        "latitude":  8.2572655,
+        "longitude":  99.0459269,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลเหนือคลอง",
+        "latitude":  8.0572961,
+        "longitude":  99.0001522,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลกระบี่",
+        "latitude":  8.0758642,
+        "longitude":  98.9152065,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลกระบี่นครินทร์ อินเตอร์เนชั่นแนล",
+        "latitude":  8.0807978,
+        "longitude":  98.9058189,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลกรุงเทพ ภูเก็ต",
+        "latitude":  7.9041094,
+        "longitude":  98.3759977,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลกะปง",
+        "latitude":  8.6857892,
+        "longitude":  98.3984578,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลคลองท่อม",
+        "latitude":  7.9521151,
+        "longitude":  99.14422,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลจริยธรรมรวมแพทย์กระบี่",
+        "latitude":  8.1010441,
+        "longitude":  98.9081284,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลชัยบุรี",
+        "latitude":  8.4695708,
+        "longitude":  99.0812945,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลดีบุก",
+        "latitude":  7.8719693,
+        "longitude":  98.3601872,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลตะกั่วทุ่ง",
+        "latitude":  8.2799869,
+        "longitude":  98.3035073,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลทับปุด",
+        "latitude":  8.500633,
+        "longitude":  98.629227,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลท้ายเหมือง",
+        "latitude":  8.4010841,
+        "longitude":  98.2609079,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลปลายพระยา",
+        "latitude":  8.5325702,
+        "longitude":  98.8654545,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลป่าตอง",
+        "latitude":  7.8956927,
+        "longitude":  98.3013405,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลพังงา",
+        "latitude":  8.4486468,
+        "longitude":  98.5263666,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลมิชชั่น ภูเก็ต",
+        "latitude":  7.9065293,
+        "longitude":  98.3909854,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลวชิระภูเก็ต",
+        "latitude":  7.8974325,
+        "longitude":  98.3832358,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลส่งเสริมสุขภาพตำบลบ้านเกาะหมากน้อย",
+        "latitude":  8.286912,
+        "longitude":  98.5979485,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลสิริโรจน์",
+        "latitude":  7.8979336,
+        "longitude":  98.3675427,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    },
+    {
+        "name":  "โรงพยาบาลอ่าวลึก",
+        "latitude":  8.4018373,
+        "longitude":  98.7426296,
+        "source":  "OpenStreetMap contributors",
+        "retrieved":  "2026-07-19"
+    }
+]
